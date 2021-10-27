@@ -31,6 +31,7 @@ Already created accounts
 | 3  |  guest   | guestpass|       |
 
 Usage examples:
+
 (/login) - After a successful login, a token will be saved into database and remains until 15 minutes pass or re-login
 ![image](https://user-images.githubusercontent.com/80266425/139131153-a1bc640a-1591-47c6-ac3e-468c6cdd2ea5.png)
 ![image2](https://user-images.githubusercontent.com/80266425/139131380-5b69d1f7-52b5-4225-95fc-69681c63fcc8.png)
